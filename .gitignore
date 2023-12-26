@@ -1,3 +1,7 @@
 /.ipynb_checkpoints/
 /__pycache__/
 /ja_ner_dataset/
+/wikiextractor/
+/wikipedia/
+/JGLUE/
+/Japanese-LUW-Tokenizer/
